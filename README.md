@@ -2,6 +2,8 @@
 
 Creates a summary for articles
 
+[![Build Status](https://travis-ci.org/n3m6/jsteaser.png)](https://travis-ci.org/n3m6/jsteaser)
+
 ## About
 
 This is a port of the PyTeaser project (https://github.com/xiaoxu193/PyTeaser) to Javascript
