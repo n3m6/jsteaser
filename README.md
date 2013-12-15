@@ -16,12 +16,27 @@ PyTeaser was a port of the TextTeaser project (https://github.com/MojoJolo/textt
 ## Example
 
 ```javascript
-var jsteaser = require('jsteaser');
+var JsTeaser = require('jsteaser');
+
+var article = {
+  title: 'This is the article title',
+  text:  'This is the article body.'
+
+var jsteaser = new JsTeaser(article);
+var summary  = jsteaser.summarize();
+
+console.log(summary);
+
 ```
 
 ## API
 
+Constructor JsTeaser() takes an article object with two fields - title and text.
+Call method summarize() to get the summarization
+
 ## Limitations
+
+Needs to be further tweaked to get better results.
 
 ## License
 
