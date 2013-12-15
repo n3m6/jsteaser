@@ -43,8 +43,9 @@ Needs to be further tweaked to get better results.
 (The MIT License)
 
 Copyright (c) 2013 Abdulla Faraz <abdulla.faraz@gmail.com>
----
-Test Case, Stop Words and Regular Expressions from the PyTeaser Project
+
+
+Test Case, stop words and algorithm from the PyTeaser Project
 
 (The MIT License)
 
