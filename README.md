@@ -1,6 +1,8 @@
-# jsteaser
+# JsTeaser
 
-Creates a summary for articles
+Creates a brief four line summary of an article, constructued from sentences within the article.
+Relies on an algorithm that ranks article body sentences on relation to header, and other 
+sentences.
 
 [![Build Status](https://travis-ci.org/n3m6/jsteaser.png)](https://travis-ci.org/n3m6/jsteaser)
 
