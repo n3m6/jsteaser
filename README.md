@@ -6,9 +6,8 @@ Creates a summary for articles
 
 ## About
 
-This is a port of the PyTeaser project (https://github.com/xiaoxu193/PyTeaser) to Javascript
-PyTeaser was in turn a port of the TextTeaser project (https://github.com/MojoJolo/textteaser)
-
+A port of the PyTeaser project (https://github.com/xiaoxu193/PyTeaser) to Javascript.
+PyTeaser was a port of the TextTeaser project (https://github.com/MojoJolo/textteaser) to Python from Scala.
 
 ## Installation
 
@@ -29,11 +28,12 @@ var jsteaser = require('jsteaser');
 (The MIT License)
 
 Copyright (c) 2013 Abdulla Faraz <abdulla.faraz@gmail.com>
-
-Test Case, Stop Words and Regular Expression from the PyTeaser Project
+---
+Test Case, Stop Words and Regular Expressions from the PyTeaser Project
 
 (The MIT License)
 
 Copyright (c) 2013 Xiao Xu
 
 Refer to included License file
+
