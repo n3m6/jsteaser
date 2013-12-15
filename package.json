@@ -1,0 +1,42 @@
+{
+  "name": "jsteaser",
+  "version": "0.0.0",
+  "description": "Creates a summary for articles",
+  "main": "lib/jsteaser.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/n3m6/jsteaser.git"
+  },
+  "keywords": [
+    "summary",
+    "article",
+    "summarizer",
+    "news",
+    "summarization",
+    "gist",
+    "preview",
+    "summaries",
+    "extract"
+  ],
+  "author": "Abdulla Faraz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/n3m6/jsteaser/issues"
+  },
+  "homepage": "https://github.com/n3m6/jsteaser",
+  "devDependencies": {
+    "mocha": "",
+    "chai": "",
+    "grunt": "",
+    "grunt-mocha-test": "",
+    "grunt-contrib-jshint": "",
+    "grunt-contrib-watch": ""
+  } 
+}
+
