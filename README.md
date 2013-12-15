@@ -27,3 +27,11 @@ var jsteaser = require('jsteaser');
 (The MIT License)
 
 Copyright (c) 2013 Abdulla Faraz <abdulla.faraz@gmail.com>
+
+Test Case, Stop Words and Regular Expression from the PyTeaser Project
+
+(The MIT License)
+
+Copyright (c) 2013 Xiao Xu
+
+Refer to included License file
