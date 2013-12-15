@@ -1,6 +1,6 @@
 {
   "name": "jsteaser",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Creates a summary for articles",
   "main": "lib/jsteaser.js",
   "directories": {
@@ -37,6 +37,12 @@
     "grunt-mocha-test": "",
     "grunt-contrib-jshint": "",
     "grunt-contrib-watch": ""
-  } 
+  },
+  "dependencies": {
+    "chai": "~1.8.1",
+    "grunt": "~0.4.2",
+    "grunt-contrib-jshint": "~0.7.2",
+    "grunt-contrib-watch": "~0.5.3",
+    "grunt-mocha-test": "~0.8.1"
+  }
 }
-
