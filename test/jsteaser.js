@@ -47,10 +47,10 @@ describe('JsTeaser', function () {
     var summary = jsteaser.summarize();
 
     var expectedResponse = [
-'In this paper, we focus on the third approach in supporting mobile data stream applica- tions',
-  'Meanwhile, the framework has better scalability because it is designed on the elastic cloud fabrics',
-  'Based on the framework, we design a genetic algorithm for optimal computation parti- tion',
-  'To the best of our knowledge, it is the first work to study the partitioning problem for mobile data stream applica- tions, where the optimization is placed on achieving high throughput of processing the streaming data rather than minimizing the makespan of executions as in other appli- cations',
+'In this paper, we focus on the third approach in supporting mobile data stream applica- tions.',
+  'Meanwhile, the framework has better scalability because it is designed on the elastic cloud fabrics.',
+  'Based on the framework, we design a genetic algorithm for optimal computation parti- tion.',
+  'To the best of our knowledge, it is the first work to study the partitioning problem for mobile data stream applica- tions, where the optimization is placed on achieving high throughput of processing the streaming data rather than minimizing the makespan of executions as in other appli- cations.',
   'Both numerical evaluation and real world experiment have been performed, and the results show that the par- titioned application can achieve at least two times better performance in terms of throughput than the application without partitioning.'
           ];
     assert.sameMembers(summary, expectedResponse, 'Summary different from expected response');
