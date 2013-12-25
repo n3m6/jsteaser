@@ -1,6 +1,6 @@
 {
   "name": "jsteaser",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Creates a summary for articles",
   "main": "lib/jsteaser.js",
   "directories": {
